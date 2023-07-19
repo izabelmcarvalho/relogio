@@ -10,7 +10,8 @@
 
 body {
     height: 100vh;
-    background-image: linear-gradient(120deg, #b5179e, #3a0ca3);
+    background: url('../imagens/ishan-seefromthesky-eWSh-bkaKU8-unsplash.jpg');
+    object-fit: cover;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -47,6 +48,6 @@ body {
 }
 
 .relogio span.tempo {
-    font-size: 0.625em;
+    font-size: 0.75em;
     font-weight: normal;
 }
