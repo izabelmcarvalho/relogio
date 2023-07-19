@@ -39,7 +39,7 @@ body {
     background: rgb(30, 30, 30);
     box-shadow: 5px 5px 15px rgba(0, 0, 0, .7);
     border-radius: 7px;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
 .relogio span {
